@@ -42,6 +42,10 @@
 #include <stddef.h>
 #include <stdint.h>
 
+//++[om]
+#include <memory>
+//--[om]
+
 namespace utils {
 class JobSystem;
 }
